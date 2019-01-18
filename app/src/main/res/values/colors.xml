@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="textColorPrimary">#757575</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#1a73e8</color>
+    <color name="background0">#fdcfe8</color>
+    <color name="contact0">#b64a8e</color>
+    <color name="background1">#fedfc8</color>
+    <color name="contact1">#c68338</color>
+    <color name="background2">#ceead6</color>
+    <color name="contact2">#428a5c</color>
+    <color name="background3">#fad2cf</color>
+    <color name="contact3">#bd4444</color>
+    <color name="background4">#cbf0f8</color>
+    <color name="contact4">#399ca3</color>
+    <color name="background5">#e9d2fd</color>
+    <color name="contact5">#8c4fbf</color>
+    <color name="background6">#feefc3</color>
+    <color name="contact6">#eb9736</color>
+</resources>

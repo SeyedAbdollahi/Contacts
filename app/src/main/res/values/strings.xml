@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="type_home">Home</string>
+    <string name="type_mobile">Mobile</string>
+    <string name="type_work">Work</string>
+    <string name="type_fax_work">Fax Work</string>
+    <string name="type_fax_home">Fax Home</string>
+    <string name="type_pager">Pager</string>
+    <string name="type_other">Other</string>
+    <string name="type_call_back">Call Back</string>
+    <string name="type_car">Car</string>
+    <string name="type_company_main">Company Main</string>
+    <string name="type_isdn">ISDN</string>
+    <string name="type_main">Main</string>
+    <string name="type_other_fax">Other Fax</string>
+    <string name="type_radio">Radio</string>
+    <string name="type_telex">Telex</string>
+    <string name="type_tty_tdd">TTY TDD</string>
+    <string name="type_work_mobile">Work Mobile</string>
+    <string name="type_work_pager">Work Pager</string>
+    <string name="type_assistant">Assistant</string>
+    <string name="type_mms">MMS</string>
+    <string name="name">Name</string>
+    <string name="null_birthday">Set Birthday</string>
+    <string name="sync_contact">Sync Contact</string>
+    <string name="count_contacts">%d Contacts found</string>
+    <string name="percent_analyzing">analyzing contacts (%d%%)</string>
+    <string name="alphabet">alphabet</string>
+    <string name="number">number</string>
+    <string name="phone">phone</string>
+</resources>
